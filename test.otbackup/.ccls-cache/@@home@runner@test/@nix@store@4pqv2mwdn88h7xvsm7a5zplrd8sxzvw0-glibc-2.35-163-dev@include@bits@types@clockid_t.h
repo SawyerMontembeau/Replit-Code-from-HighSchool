@@ -1,1 +1,0 @@
-[{"ops":[{"insert":"#ifndef __clockid_t_defined\n#define __clockid_t_defined 1\n\n#include <bits/types.h>\n\n/* Clock ID used in clock and timer functions.  */\ntypedef __clockid_t clockid_t;\n\n#endif\n"}],"crc32":1831582503,"timestamp":1704214356,"tsString":"2024-01-02 16:52:28.0 +00:00:00","version":1}]

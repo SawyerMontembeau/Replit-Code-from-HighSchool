@@ -1,1 +1,0 @@
-[{"ops":[{"insert":"#ifndef __FILE_defined\n#define __FILE_defined 1\n\nstruct _IO_FILE;\n\n/* The opaque type of streams.  This is the definition used elsewhere.  */\ntypedef struct _IO_FILE FILE;\n\n#endif\n"}],"crc32":3744259563,"timestamp":1704214355,"tsString":"2024-01-02 16:52:28.0 +00:00:00","version":1}]
