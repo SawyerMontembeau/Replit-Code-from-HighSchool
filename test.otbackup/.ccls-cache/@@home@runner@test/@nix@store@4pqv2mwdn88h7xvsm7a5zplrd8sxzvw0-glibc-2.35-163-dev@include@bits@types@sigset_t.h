@@ -1,0 +1,1 @@
+[{"ops":[{"insert":"#ifndef __sigset_t_defined\n#define __sigset_t_defined 1\n\n#include <bits/types/__sigset_t.h>\n\n/* A set of signals to be blocked, unblocked, or waited for.  */\ntypedef __sigset_t sigset_t;\n\n#endif\n"}],"crc32":1053759659,"timestamp":1704214355,"tsString":"2024-01-02 16:52:28.0 +00:00:00","version":1}]
