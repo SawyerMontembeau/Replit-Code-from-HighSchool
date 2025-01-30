@@ -1,1 +1,0 @@
-[{"ops":[{"insert":"#ifndef ____sigset_t_defined\n#define ____sigset_t_defined\n\n#define _SIGSET_NWORDS (1024 / (8 * sizeof (unsigned long int)))\ntypedef struct\n{\n  unsigned long int __val[_SIGSET_NWORDS];\n} __sigset_t;\n\n#endif\n"}],"crc32":2698539435,"timestamp":1704214356,"tsString":"2024-01-02 16:52:28.0 +00:00:00","version":1}]
