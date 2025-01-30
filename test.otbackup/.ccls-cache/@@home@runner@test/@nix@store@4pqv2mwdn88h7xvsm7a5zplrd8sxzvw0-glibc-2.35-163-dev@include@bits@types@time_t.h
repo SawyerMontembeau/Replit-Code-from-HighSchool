@@ -1,1 +1,0 @@
-[{"ops":[{"insert":"#ifndef __time_t_defined\n#define __time_t_defined 1\n\n#include <bits/types.h>\n\n/* Returned by `time'.  */\n#ifdef __USE_TIME_BITS64\ntypedef __time64_t time_t;\n#else\ntypedef __time_t time_t;\n#endif\n\n#endif\n"}],"crc32":1272055302,"timestamp":1704214356,"tsString":"2024-01-02 16:52:28.0 +00:00:00","version":1}]
