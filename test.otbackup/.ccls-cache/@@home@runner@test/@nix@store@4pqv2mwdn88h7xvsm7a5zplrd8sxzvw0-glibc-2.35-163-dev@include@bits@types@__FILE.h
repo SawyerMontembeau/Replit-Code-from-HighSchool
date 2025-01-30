@@ -1,0 +1,1 @@
+[{"ops":[{"insert":"#ifndef ____FILE_defined\n#define ____FILE_defined 1\n\nstruct _IO_FILE;\ntypedef struct _IO_FILE __FILE;\n\n#endif\n"}],"crc32":3605492919,"timestamp":1704214355,"tsString":"2024-01-02 16:52:28.0 +00:00:00","version":1}]
